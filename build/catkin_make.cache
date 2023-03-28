@@ -1,0 +1,2 @@
+ros_topic
+-DCATKIN_DEVEL_PREFIX=/home/dev/es3/devel -DCMAKE_INSTALL_PREFIX=/home/dev/es3/install -G Unix Makefiles

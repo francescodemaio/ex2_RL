@@ -1,0 +1,8 @@
+prefix=/home/dev/es3/install
+
+Name: ros_topic
+Description: Description of ros_topic
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 
